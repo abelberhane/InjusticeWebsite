@@ -9,4 +9,5 @@ Feel free to contribute, give advice, or just look around.
 
 ![alt text](https://raw.githubusercontent.com/abelberhane/InjusticeWebsite/master/Level%201.5%20Complete.png)
 ![alt text](https://github.com/abelberhane/InjusticeWebsite/blob/master/AboutSH.png?raw=true)
+![alt text](https://github.com/abelberhane/InjusticeWebsite/blob/master/TipsSH.png?raw=true)
 
