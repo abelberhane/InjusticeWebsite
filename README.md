@@ -5,7 +5,7 @@ This isn't a website that focuses on making the best possible Injustice Site, bu
 
 Feel free to contribute, give advice, or just look around.
 
-
+**Still working on how to properly pull and merge. Each Update requires a Force push and it resets the commits each time.
 
 ![alt text](https://raw.githubusercontent.com/abelberhane/InjusticeWebsite/master/Level%201.5%20Complete.png)
 ![alt text](https://github.com/abelberhane/InjusticeWebsite/blob/master/AboutSH.png?raw=true)
