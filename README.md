@@ -21,6 +21,7 @@ Goals to Add on: 8/4/17
 2) Images for the Fighters Page
 3) RSS Twitter feed by the nav bar of the Injustice Page
 4) Content wrap the site so I can have black Sides similar to www.geektyrant.com 
+5) ARIA Roles and enhanced structure to the text pages. i.e. article, main, etc
 
 ![alt text](https://raw.githubusercontent.com/abelberhane/InjusticeWebsite/master/Level%201.5%20Complete.png)
 ![alt text](https://github.com/abelberhane/InjusticeWebsite/blob/master/AboutSH.png?raw=true)
