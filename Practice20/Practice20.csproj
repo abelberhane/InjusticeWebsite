@@ -148,8 +148,10 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="Content\bootstrap.css" />
-    <Content Include="Content\bootstrap.min.css" />
+    <Content Include="Content\badguysbanner.jpg" />
+    <Content Include="Content\cyborg\cyborg.jpg" />
+    <Content Include="Content\cyborg\cyborg.png" />
+    <Content Include="Content\cyborg\cyborgbody.png" />
     <Content Include="Content\InjusticeBanner.jpg" />
     <Content Include="Content\LabTime.jpg" />
     <Content Include="Content\OnlineMultiplayer.jpg" />
